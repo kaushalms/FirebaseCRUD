@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kaushal Mandayam Code Test</string>
+    <string name="title_activity_detail">USER DERAILS</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="first_name">First Name</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="last_name">Last Name</string>
+    <string name="test">test</string>
+</resources>
